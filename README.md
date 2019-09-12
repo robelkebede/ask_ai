@@ -1,2 +1,2 @@
 # ask_ai
-ask question from wikipedia pages
+generate question from wikipedia pages
